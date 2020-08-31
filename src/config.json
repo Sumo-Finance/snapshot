@@ -1,7 +1,7 @@
 {
   "master": {
     "network": "homestead",
-    "chainId": 1,
+    "chainId": 42,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/name/balancer-labs/balancer",
     "hubUrl": "https://vote.balancer.finance",
     "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
@@ -29,7 +29,7 @@
   },
   "develop": {
     "network": "homestead",
-    "chainId": 1,
+    "chainId": 42,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/name/balancer-labs/balancer",
     "hubUrl": "https://beta.vote.balancer.finance",
     "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
@@ -57,7 +57,7 @@
   },
   "local": {
     "network": "homestead",
-    "chainId": 1,
+    "chainId": 42,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/name/balancer-labs/balancer",
     "hubUrl": "http://localhost:3000",
     "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
